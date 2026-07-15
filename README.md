@@ -1,8 +1,10 @@
 # Hi, I'm Clark Cui
 
-I build embedded and industrial systems from hardware bring-up to application software, algorithms, and verification.
+Embedded and industrial systems engineer based in Hefei, Anhui, China.
 
-我的工作覆盖硬件、STM32/Linux 底层、应用架构、算法、测试平台与工程交付。我关注的不只是“功能做出来”，更重视能否通过 HIL、SIL、测量、回放和自动化测试证明它可靠地工作。
+I build systems from hardware bring-up to application software, algorithms, and verification.
+
+我目前在安徽合肥，工作覆盖硬件、STM32/Linux 底层、应用架构、算法、测试平台与工程交付。我关注的不只是“功能做出来”，更重视能否通过 HIL、SIL、测量、回放和自动化测试证明它可靠地工作。
 
 ## Engineering profile
 
