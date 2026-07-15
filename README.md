@@ -17,7 +17,7 @@ I build systems from hardware bring-up to application software, algorithms, and 
 | STM32 and flight-control engineering | [Aerakia Flight Stack](https://github.com/Sailiono/aerakia-flight-stack): drivers, RTOS, application integration, estimation algorithms, HIL, SIL, replay, and digital twin |
 | Hardware-system development | [dpiny RTK Base Station](https://github.com/Sailiono/dpiny-rtk-base-station): isolated power, STM32 + GNSS, dual RS-422, firmware, diagnostics, and bench verification |
 | AI-assisted engineering workflow | [Liakia](https://github.com/Sailiono/liakia-ai-embedded-workflow): repeatable build → flash → test → diagnose → evidence → handoff, proven on real STM32 hardware through dpiny |
-| Linux and industrial vision | [Splicia Vision Platform](https://github.com/Sailiono/splicia-vision-platform): Linux camera pipelines, microscopic vision, multi-axis motion, closed-loop alignment, logging, and replay |
+| Linux and industrial product systems | [Splicia Vision Platform](https://github.com/Sailiono/splicia-vision-platform): completed Linux camera/platform bring-up and diagnostics, plus a clearly marked Phase2 UI and modular architecture concept |
 | Open hardware and protocol validation | [SBUS-RS422 Bridge](https://github.com/Sailiono/sbus-rs422-bridge): isolated transparent hardware bridge, browser analyzer, logic-capture analysis, and input/output consistency testing |
 
 ## Featured work
@@ -32,7 +32,7 @@ Two views of one engineering result. dpiny demonstrates the hardware and firmwar
 
 ### [Splicia Vision Platform](https://github.com/Sailiono/splicia-vision-platform)
 
-A privacy-safe case study covering embedded Linux, dual global-shutter camera pipelines, microscopic fiber measurement, semantic multi-axis control, continuous alignment, product-state design, and replayable verification.
+A privacy-safe, in-progress case study. Completed work covers embedded-Linux camera/platform bring-up, IMX296 topology and RAW-output diagnostics, and migration investigation. The published Phase2 UI and modular architecture are original design concepts; vision algorithms, motion control, closed-loop performance, and production UI are not claimed as completed.
 
 ### [SBUS-RS422 Bridge](https://github.com/Sailiono/sbus-rs422-bridge)
 
