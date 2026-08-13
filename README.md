@@ -8,7 +8,7 @@ I build systems from hardware bring-up to application software, algorithms, and 
 
 [Email / 邮箱](mailto:clarkcui2you@gmail.com): clarkcui2you@gmail.com
 
-我目前在安徽合肥，工作覆盖硬件、STM32/Linux 底层、应用架构、算法、测试平台与工程交付。我关注的不只是“功能做出来”，更重视能否通过 HIL、SIL、测量、回放和自动化测试证明它可靠地工作。
+我目前在安徽合肥，工作覆盖硬件、STM32/Linux 底层、应用架构、算法、测试平台与工程交付。我关注的“功能做出来”，更重视通过 HIL、SIL、测量、回放和自动化测试证明其可靠性。
 
 ## Engineering profile
 
